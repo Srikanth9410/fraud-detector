@@ -2,4 +2,3 @@ openai-whisper
 openai
 pyttsx3
 websockets
-Flask
